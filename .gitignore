@@ -2,6 +2,7 @@
 # Credential secrets
 **/.credentials/*
 *.secrets.json
+.secrets.json
 
 # Local .terraform directories
 **/.terraform/*
